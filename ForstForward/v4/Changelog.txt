@@ -10,7 +10,7 @@ Mechanics:
 
 Bug fixes & QoL:
 	- cursor highlight now updates properly after successfully performing an action
-	- there's now a mute button
+	- there's now a mute button (you may also press "M" to mute the game)
 	- VFX are now clipped to the map properly (preventing out-of-bounds druid circle and lightning visuals)
 	- press "S" to skip your turn
 	- press "ESC" to return to the *new* menu
