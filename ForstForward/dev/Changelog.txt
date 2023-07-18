@@ -1,0 +1,5 @@
+
+
+
+Bug Fixes & QoL:
+	- records are now displayed properly after loss/win
