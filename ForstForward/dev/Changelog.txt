@@ -1,5 +1,8 @@
+Mechanics:
+	- added levels
+	- adjusted actions to no longer be random in strength
+	- adjusted a few action scalings
 
-
-
-Bug Fixes & QoL:
-	- records are now displayed properly after loss/win
+Bug fixes & QoL:
+	- fixed: records were not displayed properly after win/loss
+	- fixed: pressing the skip hotkey has reset advancement phases
