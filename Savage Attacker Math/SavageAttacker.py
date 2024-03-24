@@ -1,5 +1,6 @@
 import tkinter as tk
 import math
+# https://arxiv.org/abs/1202.0228
 
 def get_triangle(width: int = 2, height: int = 10, do_prints: bool = False):
     triangle = [[1]]
